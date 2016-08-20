@@ -4,11 +4,11 @@ import (
 	"flag"
 	"fmt"
 	"io"
+	"log"
 	"net/http"
 	"net/url"
 	"os"
 	"time"
-	"log"
 
 	"github.com/pin/tftp"
 )

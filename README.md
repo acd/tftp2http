@@ -10,7 +10,7 @@ Building the daemon is currently an exercise left to the reader; I've not done a
 
 ### Can I see it work?
 
-Lets proxy all requests to Google!
+Let's proxy all requests to Google!
 
 ```
 $ tftp2http -listen=:10000 http://www.google.com/
