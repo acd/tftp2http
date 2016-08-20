@@ -10,7 +10,7 @@ import (
 	"time"
 	"log"
 
-	"github.com/acd/tftp"
+	"github.com/pin/tftp"
 )
 
 var (
