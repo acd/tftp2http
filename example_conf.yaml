@@ -1,0 +1,4 @@
+# TFTP path regex                     Map to http/https url
+/goog/it:                             http://192.168.10.72/test0
+/abc/xyz/(.*\.iso):                   http://192.168.10.72/test1/$1
+/abc/def/(.*)/foobar/(.*\.iso):       http://192.168.10.72/test2/$1/X/$2
